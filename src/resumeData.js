@@ -15,7 +15,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"I am a graduate from the College of Staten Island with my Bachelors Degree in Computer Science. Upon graduating I continue to pursue my interest in Coomputer Science by constantly learning new concepts and ideas. I am currently open to work and ready to start a full time position as soon as possible. ",
+    "aboutme":"I am a graduate from the College of Staten Island with my Bachelors Degree in Computer Science. Upon graduating I continue to pursue my interest in Computer Science by constantly learning new concepts and ideas. I am currently open to work and ready to start a full time position as soon as possible. ",
     "address":"ahmadhamoudeh1999@gmail.com",
     "website":"https://www.linkedin.com/in/ahmad-hamoudeh-a217661b0/",
     "education":[
