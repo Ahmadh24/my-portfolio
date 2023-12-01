@@ -1,8 +1,8 @@
 let resumeData = {
     "name": "Ahmad Hamoudeh",
-    "role": "Frontend Developer/Engineer",
+    "role": "FullStack Developer/Engineer",
     "linkedinId":" Ahmad Hamoudeh",
-    "roleDescription": " With a passion in Software Engineering/Development. I love to practice and learn the ins and outs of Frontend Development. Starting with just the basics of HTML CSS and JavaScript, to now conquering with frameworks like React where the possibilities are endless! ",
+    "roleDescription": " With a passion in Software Engineering/Development. I love to practice and learn the ins and outs of FullStack Development. Starting with just the basics of HTML, CSS and JavaScript, to now conquering with frameworks like React and Express where the possibilities are endless! ",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -30,21 +30,28 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Pursuit",
+        "specialization":"Lead Fullstack Web Development Instructor",
+        "MonthOfLeaving":"Sep",
+        "YearOfLeaving":"2022 - Present",
+        "Achievements":"Empowered Students to learn how to create websites and software, leveraging different technologies and coding languages, and instilling a love of learning new tech stacks, which they will need to continue doing in their careers."
+      },
+      {
         "CompanyName":"CodeSpeak Labs",
         "specialization":"Coding Instructor",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2020 - Present",
+        "YearOfLeaving":"2020 - Sep 2022",
         "Achievements":"Taught students of all grades beginning to intermediate level coding from drag and drop code all the way to the basics of HTML, CSS, and JavaScript"
       },
       {
         "CompanyName":"NYC DOE",
         "specialization":"Licensed Substitute Teacher",
         "MonthOfLeaving":"Dec",
-        "YearOfLeaving":"2021 - Present",
+        "YearOfLeaving":"2021 - Sep 2022",
         "Achievements":"Taught several subjects such as: Computer Science, Social Studies, General Science, Music, Gym, Dance etc"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
         "skillname":"HTML5"
@@ -59,10 +66,10 @@ let resumeData = {
         "skillname":"React"
       },
       {
-        "skillname":"Java"
+        "skillname":"Postgres"
       },
       {
-        "skillname":"Cplusplus"
+        "skillname":"Express"
       },
       {
         "skillname":"node"
@@ -100,4 +107,4 @@ let resumeData = {
     ]
   }
   
-  export default resumeData
+  export default resumeData;
