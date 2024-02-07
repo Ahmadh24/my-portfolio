@@ -98,7 +98,7 @@ let resumeData = {
         "name":"Project4",
         "description":"Web Review Hub",  
         "imgurl":"images/portfolio/websiteapp.png",
-        "url": "https://stunning-cuchufli-030e99.netlify.app/"
+        "url": "https://websiteslistings.netlify.app/"
       },
     ],
     "testimonials":[
